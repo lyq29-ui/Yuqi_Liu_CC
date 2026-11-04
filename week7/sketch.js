@@ -35,7 +35,7 @@ function draw(){
 
 
         fill(0, 0, 0, 20);
-        stroke(0, 0, 0, 80);
+        stroke(0, 0, 0, 90);
         strokeWeight(weight);
 
         circle(350, 550, d2)
@@ -62,10 +62,10 @@ function draw(){
    let d5 = 80
    circle(180, 180, d5)
 
-   strokeWeight(2)
+   strokeWeight(3)
    circle(x1, y1, d6)
 
-   strokeWeight(2)
+   strokeWeight(3)
    circle(375, 360, d7)
 
    strokeWeight(1)
